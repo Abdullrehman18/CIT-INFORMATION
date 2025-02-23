@@ -1,0 +1,49 @@
+Figma Shortcut Keys
+
+General Shortcuts:
+- Ctrl + N / Cmd + N → New File
+- Ctrl + Shift + N / Cmd + Shift + N → New Window
+- Ctrl + O / Cmd + O → Open File
+- Ctrl + S / Cmd + S → Save File
+- Ctrl + Shift + ? / Cmd + Shift + ? → Open Keyboard Shortcuts
+- Ctrl + / / Cmd + / → Quick Actions Search
+
+Selection & Navigation:
+- Space + Drag → Pan Canvas
+- Ctrl + 0 / Cmd + 0 → Fit to Screen
+- Ctrl + 1 / Cmd + 1 → Zoom to 100%
+- Ctrl + 2 / Cmd + 2 → Zoom to Selection
+- Z + Drag → Zoom in
+- Shift + Z → Toggle Zoom to 100%
+
+Editing Objects:
+- V → Move Tool
+- Shift + Drag → Constrain Movement
+- Alt + Drag / Option + Drag → Duplicate
+- Ctrl + D / Cmd + D → Duplicate Last Action
+- Delete / Backspace → Delete Selected Object
+
+Shapes & Frames:
+- F → Frame Tool
+- R → Rectangle Tool
+- L → Line Tool
+- O → Ellipse Tool
+- Shift + Drag → Draw Proportional Shapes
+
+Text & Typography:
+- T → Text Tool
+- Ctrl + B / Cmd + B → Bold
+- Ctrl + I / Cmd + I → Italic
+- Ctrl + Shift + K / Cmd + Shift + K → Convert Text to Uppercase
+
+Grouping & Layers:
+- Ctrl + G / Cmd + G → Group
+- Ctrl + Shift + G / Cmd + Shift + G → Ungroup
+- Ctrl + ] / Cmd + ] → Bring Forward
+- Ctrl + [ / Cmd + [ → Send Backward
+- Ctrl + Alt + [ / Cmd + Option + [ → Send to Back
+
+Component & Prototyping:
+- Ctrl + Alt + K / Cmd + Option + K → Create Component
+- Ctrl + Shift + K / Cmd + Shift + K → Place Image
+- P → Pen Tool
