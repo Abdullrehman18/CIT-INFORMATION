@@ -1,0 +1,81 @@
+HTML (HyperText Markup Language) uses various tags to structure a webpage. Here’s a list of essential HTML tags along with a short introduction for each:
+
+### **Basic Structure Tags**
+1. `<html>` – The root element that defines an HTML document.  
+2. `<head>` – Contains metadata, links to stylesheets, and scripts.  
+3. `<title>` – Defines the title of the document shown in the browser tab.  
+4. `<body>` – Contains the content visible on the webpage.  
+
+### **Text Formatting Tags**
+5. `<h1>` to `<h6>` – Define headings, with `<h1>` being the largest and `<h6>` the smallest.  
+6. `<p>` – Defines a paragraph.  
+7. `<b>` – Bold text.  
+8. `<i>` – Italic text.  
+9. `<u>` – Underlined text.  
+10. `<strong>` – Strongly emphasizes text (bold by default).  
+11. `<em>` – Emphasizes text (italic by default).  
+12. `<mark>` – Highlights text.  
+13. `<small>` – Reduces text size.  
+14. `<del>` – Strikes through text (used to indicate deleted text).  
+15. `<ins>` – Underlined text (used to indicate inserted text).  
+
+### **Link & Media Tags**
+16. `<a>` – Creates hyperlinks.  
+17. `<img>` – Embeds an image.  
+18. `<video>` – Embeds a video file.  
+19. `<audio>` – Embeds an audio file.  
+20. `<source>` – Specifies multiple media resources for `<video>` or `<audio>`.  
+21. `<iframe>` – Embeds another webpage inside the document.  
+
+### **List Tags**
+22. `<ul>` – Creates an unordered list.  
+23. `<ol>` – Creates an ordered (numbered) list.  
+24. `<li>` – Represents a list item.  
+25. `<dl>` – Defines a description list.  
+26. `<dt>` – Defines a term in a description list.  
+27. `<dd>` – Defines the description of a term in a description list.  
+
+### **Table Tags**
+28. `<table>` – Creates a table.  
+29. `<tr>` – Defines a row in a table.  
+30. `<th>` – Defines a header cell in a table.  
+31. `<td>` – Defines a standard cell in a table.  
+32. `<caption>` – Provides a caption for a table.  
+33. `<thead>` – Groups the header content in a table.  
+34. `<tbody>` – Groups the body content in a table.  
+35. `<tfoot>` – Groups the footer content in a table.  
+
+### **Form & Input Tags**
+36. `<form>` – Creates a form for user input.  
+37. `<input>` – Defines an input field (text, password, checkbox, etc.).  
+38. `<textarea>` – Defines a multi-line input field.  
+39. `<button>` – Creates a clickable button.  
+40. `<label>` – Defines a label for form elements.  
+41. `<select>` – Creates a dropdown list.  
+42. `<option>` – Defines an option inside `<select>`.  
+43. `<optgroup>` – Groups related options in a dropdown list.  
+44. `<fieldset>` – Groups related form elements.  
+45. `<legend>` – Defines a caption for `<fieldset>`.  
+
+### **Semantic & Layout Tags**
+46. `<header>` – Defines a header section for a webpage or section.  
+47. `<nav>` – Defines navigation links.  
+48. `<section>` – Defines a section of a webpage.  
+49. `<article>` – Represents an independent content section.  
+50. `<aside>` – Defines content aside from the main content.  
+51. `<footer>` – Defines a footer section.  
+52. `<main>` – Represents the main content of the page.  
+53. `<div>` – A generic container for styling and layout.  
+54. `<span>` – A generic inline container for styling.  
+
+### **Interactive & Scripting Tags**
+55. `<script>` – Embeds JavaScript code.  
+56. `<noscript>` – Provides an alternative when JavaScript is disabled.  
+57. `<canvas>` – Used for graphics drawing via JavaScript.  
+
+### **Meta & Miscellaneous Tags**
+58. `<meta>` – Provides metadata about the document (e.g., charset, viewport).  
+59. `<link>` – Links external resources like stylesheets.  
+60. `<style>` – Embeds CSS styles within an HTML document.  
+61. `<base>` – Defines a base URL for relative links.  
+
