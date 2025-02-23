@@ -114,7 +114,8 @@ Elements that improve accessibility and meaning.
 - `<ruby>`: Ruby annotation (for East Asian text)  
 - `<rt>`: Pronunciation explanation  
 - `<rp>`: Fallback for ruby text  
-- `<wbr>`: Possible word break  
+- `<wbr>`: Possible word break
+- `<span>` – A generic inline container for styling.
 
 ### **10. Structural & Utility Elements**  
 Used to define reusable content and templates.  
