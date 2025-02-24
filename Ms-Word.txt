@@ -1,0 +1,63 @@
+Basic Shortcuts
+Ctrl + N → New document
+Ctrl + O → Open document
+Ctrl + S → Save document
+Ctrl + P → Print document
+Ctrl + W → Close document
+Editing Shortcuts
+Ctrl + X → Cut
+Ctrl + C → Copy
+Ctrl + V → Paste
+Ctrl + Z → Undo
+Ctrl + Y → Redo
+Ctrl + A → Select all
+Ctrl + F → Find
+Ctrl + H → Replace
+Ctrl + G (or F5) → Go to
+Text Formatting Shortcuts
+Ctrl + B → Bold
+Ctrl + I → Italic
+Ctrl + U → Underline
+Ctrl + Shift + W → Underline words only
+Ctrl + Shift + D → Double underline
+Ctrl + Shift + K → Small capitals
+Ctrl + = → Subscript
+Ctrl + Shift + = → Superscript
+Ctrl + Shift + > → Increase font size
+Ctrl + Shift + < → Decrease font size
+Paragraph Formatting Shortcuts
+Ctrl + E → Center align
+Ctrl + L → Left align
+Ctrl + R → Right align
+Ctrl + J → Justify
+Ctrl + M → Indent paragraph
+Ctrl + Shift + M → Remove indent
+Ctrl + T → Hanging indent
+Ctrl + Shift + T → Reduce hanging indent
+Ctrl + 1 → Single line spacing
+Ctrl + 2 → Double line spacing
+Ctrl + 5 → 1.5 line spacing
+Navigation Shortcuts
+Home → Move to beginning of line
+End → Move to end of line
+Ctrl + Home → Move to beginning of document
+Ctrl + End → Move to end of document
+Ctrl + Left Arrow → Move one word left
+Ctrl + Right Arrow → Move one word right
+Ctrl + Up Arrow → Move up one paragraph
+Ctrl + Down Arrow → Move down one paragraph
+Table Shortcuts
+Tab → Move to next cell
+Shift + Tab → Move to previous cell
+Ctrl + Tab → Insert tab within a cell
+Ctrl + Shift + Enter → Insert a new line in a table cell
+Alt + Shift + Up/Down Arrow → Move row up/down
+Other Useful Shortcuts
+Ctrl + Shift + C → Copy formatting
+Ctrl + Shift + V → Paste formatting
+Ctrl + Shift + N → Apply Normal style
+Ctrl + Spacebar → Remove formatting
+F7 → Spell check
+Shift + F3 → Change case (uppercase, lowercase, title case)
+Alt + Shift + D → Insert current date
+Alt + Shift + T → Insert current time
